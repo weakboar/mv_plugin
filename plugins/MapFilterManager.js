@@ -1,11 +1,11 @@
 /*:ja
  * メモ: SceneManager._scene._spriteset.filtersに適用するフィルターを管理
  *
- * @plugindesc マップ（のタイルセット）にかけるFilterを管理する
+ * @plugindesc マップのFilterを管理する。セーブ/ロード対応。
  * @author weakboar
  *
  * @help
- *
+ * Filterの各パラメータ値の設定は非対応です。
  */
 
 /**
