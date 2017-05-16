@@ -14,9 +14,9 @@ Filters
   * 奥行き感が増す
   * ジオラマのようになる
 * **GrayScaleFilter**
-  * グレースケール化します
+  * グレースケール化する
 * **SepiaFilter**
-  * セピア調に変換します
+  * セピア調に変換する
 
 Filter管理
 * **MapFilterManager**
@@ -25,6 +25,6 @@ Filter管理
   * ロード時にフィルターの状態を復元
 * **FilterExample**
   * 要MapFilterManagerプラグイン
-  * MapFitlerManagerをコマンドスクリプトから利用出来るようにします。
+  * MapFitlerManagerをコマンドスクリプトから利用可能にする
 
 Filter管理系のプラグインについては取り敢えず使える用にはなったという段階です。
