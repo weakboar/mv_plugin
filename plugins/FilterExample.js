@@ -1,7 +1,7 @@
 /*:ja
  * メモ: Filterをプラグインコマンドから利用するためのプラグイン。
  *
- * @plugindesc BloomFilter,TiltShiftFilterをプラグインコマンドから利用できます。
+ * @plugindesc BloomFilter,TiltShiftFilter,GrayScale,Sepiaをプラグインコマンドから利用できます。
  * @author weakboar
  *
  * @help
