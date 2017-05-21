@@ -8,7 +8,7 @@
  *
  * プラグインコマンド:
  *   Filter bloom           # BloomFilterを有効にする
- *   TiltShift bloom        # TiltShiftFilterを有効にする
+ *   Filter tiltshift       # TiltShiftFilterを有効にする
  */
 (function () {
     var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand
